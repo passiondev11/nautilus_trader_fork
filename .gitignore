@@ -80,6 +80,7 @@ venv*/
 python/nautilus_trader/_libnautilus.pyi
 
 # Build environment and temp
+.tools/
 _build/
 build/
 dist/
